@@ -1,0 +1,19 @@
+{
+"pytania":[
+  {
+    "nazwa":"Bayern",
+    "link":"https://upload.wikimedia.org/wikipedia/en/thumb/0/04/FC_Bayern_Munich_5_Stars.svg/330px-FC_Bayern_Munich_5_Stars.svg.png",
+    "opis":"mistrz Niemiec"
+  },
+{
+    "nazwa":"Barcelona",
+    "link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwaJVLPgEk3JhHTIPLA1Vk0Cm8sgMx9xqLdw&s",
+    "opis":"mistrz Hiszpanii"
+},
+{
+    "nazwa":"Liverpool",
+    "link":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsL4dOd7UvFdVpo8iQIuP8V-6-rm0p2DtSYA&s",
+    "opis":"mistrz Anglii"
+}
+]
+}
